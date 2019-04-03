@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    tools:context="customcamera.diseasedetector.org.checkit.MainActivity">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+
+        android:text="CHECKIT"
+        android:textColor="@android:color/background_light"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:id="@+id/latTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Say Allow to the location promt."
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/lonTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="Say Allow to the location promt."
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/accuracyTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Say Allow to the location promt."
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/speedTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="250dp"
+        android:text="Say Allow to the location promt."
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/addressTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="300dp"
+        android:text="Say Allow to the location promt."
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/Seoul"
+        android:background="@color/graylight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="도쿄로 이동"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/Dejun"
+        android:background="@color/graylight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="대전으로 이동"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/Degoo"
+        android:background="@color/graylight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="대구로 이동"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/Busan"
+        android:background="@color/graylight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="부산으로 이동"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/Jeju"
+        android:background="@color/graylight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="제주로 이동"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>

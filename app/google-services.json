@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "928520923391",
+    "firebase_url": "https://skintechbeta.firebaseio.com",
+    "project_id": "skintechbeta",
+    "storage_bucket": "skintechbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928520923391:android:06a1447401dc69db",
+        "android_client_info": {
+          "package_name": "customcamera.diseasedetector.org.checkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928520923391-omu1ckq1gmgiagietquv62l7as5ctku7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "customcamera.diseasedetector.org.checkit",
+            "certificate_hash": "f1fb05f34c5bbc4779ca4b423658bddd35d503e7"
+          }
+        },
+        {
+          "client_id": "928520923391-lofam7o7vppt9jpnr3lluuf5kmin8p10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcdEx1XKVgaWnFi5N839a_ZWQGk0rHBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928520923391-lofam7o7vppt9jpnr3lluuf5kmin8p10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928520923391:android:9815fbe04f6cb593",
+        "android_client_info": {
+          "package_name": "customcamera.diseasedetector.org.skintechbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928520923391-e8virj1gf6j5ge3ormsld72irf6616mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "customcamera.diseasedetector.org.skintechbeta",
+            "certificate_hash": "f1fb05f34c5bbc4779ca4b423658bddd35d503e7"
+          }
+        },
+        {
+          "client_id": "928520923391-lofam7o7vppt9jpnr3lluuf5kmin8p10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcdEx1XKVgaWnFi5N839a_ZWQGk0rHBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928520923391-lofam7o7vppt9jpnr3lluuf5kmin8p10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928520923391:android:dc93536bb98af7de",
+        "android_client_info": {
+          "package_name": "customcamera.diseasedetector.org.skintechmeasles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928520923391-lofam7o7vppt9jpnr3lluuf5kmin8p10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcdEx1XKVgaWnFi5N839a_ZWQGk0rHBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
