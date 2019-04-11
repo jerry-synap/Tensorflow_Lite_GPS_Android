@@ -7,5 +7,5 @@ Tensorflow_Lite_GPS_Android
 
 Checkit - Based on your location of GPS, this app is able to change and make use of the distinct tensorflow lite and provides the consumer price of specific food what you want to take and calories depending on the result.
 
-
+<img width="709" alt="Screen Shot 2019-04-11 at 15 16 36" src="https://user-images.githubusercontent.com/42028366/55935202-f4d06700-5c6d-11e9-8113-e3acf58778ab.png">
 
